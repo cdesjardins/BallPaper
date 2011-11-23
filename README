@@ -1,0 +1,6 @@
+An Android app that will read data from the magnetometer and accelerometer, and use
+the data to cause a 3D sphere to bounce around in the background of your device.
+
+- The magnetometer is used to get an UP vector to cancel out acceleration due 
+   to gravity. 
+- The accelerometer is used to detect movement of the Android device.
